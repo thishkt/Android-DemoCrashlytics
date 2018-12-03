@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "101365517265",
+    "firebase_url": "https://democrashlytics-1cb7a.firebaseio.com",
+    "project_id": "democrashlytics-1cb7a",
+    "storage_bucket": "democrashlytics-1cb7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101365517265:android:e0f3f79fcbdf05f6",
+        "android_client_info": {
+          "package_name": "com.thishkt.democrashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101365517265-s6bvb65eu282cc6h8sts1i0ghh0m98hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeVtfpfgan503t-9UKr7-4kEkD4rhn2no"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
